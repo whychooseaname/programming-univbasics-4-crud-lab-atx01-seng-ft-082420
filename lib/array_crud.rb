@@ -4,10 +4,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  four_elements=[1,2,3,4]
+  four_elements=[1,2,3,5]
 end
 
 def add_element_to_end_of_array(array, element)
+  add_element=[1,2,3]
   add_element<< "arrays!"
 end
 
