@@ -1,7 +1,6 @@
 def create_an_empty_array
   empty_array=[]
   p empty_array
-  
 end
 
 def create_an_array
@@ -9,7 +8,6 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  add_element=[1,2]
   add_element<< 3
 end
 
